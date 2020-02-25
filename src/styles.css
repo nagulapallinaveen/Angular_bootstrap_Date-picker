@@ -34,3 +34,8 @@ button.calendar, button.calendar:active {
     padding: 14px;
     margin-left: auto;
 }
+
+.bg-primary {
+    color: #f00;
+    background-color: #337ab7;
+}
